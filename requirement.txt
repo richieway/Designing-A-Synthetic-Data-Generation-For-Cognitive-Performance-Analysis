@@ -1,0 +1,21 @@
+# Synthetic Cognitive Performance Simulation Framework
+
+## Tools
+numpy
+pandas
+scipy
+scikit-learn
+statsmodels
+plotly
+streamlit
+
+## Files
+app.py
+synthetic_cognitive_dataset.csv
+notebook.ipynb
+requirements.txt 
+
+## Run Instructions
+```bash
+pip install -r requirements.txt
+streamlit run app.py
