@@ -1,4 +1,4 @@
-# Synthetic Cognitive Performance Simulation Framework
+Synthetic Cognitive Performance Simulation Framework
 
 ## Tools
 numpy
